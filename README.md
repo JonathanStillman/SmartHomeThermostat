@@ -7,7 +7,11 @@ Creating an Smart Home Thermostat using SwiftUI. This application will give the 
 
 Overview
 :-------------------------:
-https://user-images.githubusercontent.com/68572893/214410334-bd35d2f6-6b95-4955-b79a-054f76c72dfb.mp4
+https://user-i
+
+https://user-images.githubusercontent.com/68572893/214415746-0100bd07-6ca4-4ca2-8654-88517545f869.mp4
+
+mages.githubusercontent.com/68572893/214410334-bd35d2f6-6b95-4955-b79a-054f76c72dfb.mp4
 
 ## Technologies Used
 SwiftUI
