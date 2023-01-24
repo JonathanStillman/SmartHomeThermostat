@@ -1,1 +1,1 @@
-# SmartHomeThemometer
+# Smart Home Thermostat
